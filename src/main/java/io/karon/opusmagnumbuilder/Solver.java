@@ -169,7 +169,8 @@ public class Solver {
 //
 //
 //
-//
+// Maybe focus on volume instead of cycles first... Or at least try to make it work also, after cycles work. And cost too.
+// Cost is probably the easiest actually. Everything will increase cost except operations, which simplifies the problem
 //
 //
 //
